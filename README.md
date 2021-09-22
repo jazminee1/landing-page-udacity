@@ -12,7 +12,9 @@ by building a dynamic responsive landing page sample
 -CSS
 -Javascript
 
-#methods used in the code
+#methods used in the code 
+
+
 built  a navbar using js by using a for of loop to go over all the sections 
 then adding <li> accordingly and added it to the page by utilising the innerHTML property 
  
